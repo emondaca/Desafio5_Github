@@ -1,0 +1,101 @@
+.bg-menu{
+    background-color:#28A745;
+}
+nav img{
+    height: 25px;
+    width: 86px;
+}
+.card{
+    width: 278px;
+}
+.card-img-top{
+    height: 180px;
+    width: 278px;
+}
+.descripcion{
+    font-family: roboto_light;
+    font-size: 20px;
+    font-weight: normal;
+    color: #212529;
+}
+.comercio{
+    font-family: roboto_light;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 0%;
+    color: #707070;
+}
+.direccion{
+    font-family: roboto_light;
+    font-size: 13px;
+    font-weight: normal;
+    margin-bottom: 0%;
+    color: #707070;
+}
+.card-footer{
+    background-color: white;
+}
+.precio_normal{
+    font-family: roboto_light;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 0%;
+    color: #707070;
+}
+.precio_oferta{
+    font-family: roboto_light;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0%;
+    color: #28A745;
+}
+@font-face {
+    font-family: roboto_medium;
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: roboto_light;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+.bg-form{
+    background-color: #28A745;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    margin-bottom: 24px;
+    justify-items: center;
+}
+.form-control{
+    height: 40px;
+    color: #707070;
+    font-family: roboto_light;
+    font-size: 16px;
+    font-weight: normal;
+}
+.form_head{
+    font-family: roboto_medium;
+    font-size: 21px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+.btn_enviar{
+    height: 40px;
+    width: 112px;
+    font-family: roboto_medium;
+    font-size: 16px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+.footer_logo{
+    height: 24px;
+    width: 82px;
+
+}
+.p_footer{
+    font-family: roboto_light;
+    text-wrap: wrap;
+    font-size: 16px;
+    font-weight: normal;
+    color: #707070;
+}

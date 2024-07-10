@@ -2,22 +2,33 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
+/* Presentation Section */
 
-#Hero-Section {
-  background-image: url("../img/bg-at-JeffLab.jpg");
+#Presentation-Section {
+  background-image: url("../img/trayectoria.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
-
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+.image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+.habilidades ul{
+  text-align: left;
+}
+.otros ul {
+  text-align: left;
+}
+.portafolio ul {
+  list-style: none;
+}
+.publicaciones ul {
+  text-align: left;
 }
 
 /* Contacto */
